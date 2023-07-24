@@ -40,4 +40,7 @@ A very laggy 3D engine. At first, the idea was to create a 4D cube visualization
   - [ ] Addition of model textures.
   - [ ] Camera control using mouse & keyboard.
   - [ ] Mesh clipping with the camera - crashes are possible if the camera is placed inside of a mesh.
+  - [ ] Cast shadows - only self-shadowing right now is possible.
+  - [ ] Phong / smooth shading - you can find attempts of this shading in the code, but none of the approaches worked so far.
+  - [ ] Could add render pipelines to get more wonky effects.
   
