@@ -1,0 +1,86 @@
+solid Exported from Blender-3.2.0
+facet normal 0.127960 0.991779 0.000000
+outer loop
+vertex -0.956861 1.252475 1.289387
+vertex 1.000000 1.000000 1.000000
+vertex 1.000000 1.000000 -1.000000
+endloop
+endfacet
+facet normal 0.000000 0.993974 -0.109616
+outer loop
+vertex -0.956861 1.252475 1.289387
+vertex 1.000000 1.000000 -1.000000
+vertex -1.000000 1.000000 -1.000000
+endloop
+endfacet
+facet normal 0.000000 0.000000 -1.000000
+outer loop
+vertex -1.000000 -1.000000 -1.000000
+vertex -1.000000 1.000000 -1.000000
+vertex 1.000000 1.000000 -1.000000
+endloop
+endfacet
+facet normal -0.041259 0.041259 -0.998296
+outer loop
+vertex -1.000000 -1.000000 -1.000000
+vertex 1.000000 1.000000 -1.000000
+vertex 1.365382 -1.422169 -1.115207
+endloop
+endfacet
+facet normal 0.988813 0.149162 0.000000
+outer loop
+vertex 1.365382 -1.422169 -1.115207
+vertex 1.000000 1.000000 -1.000000
+vertex 1.000000 1.000000 1.000000
+endloop
+endfacet
+facet normal 0.985406 0.000000 0.170220
+outer loop
+vertex 1.365382 -1.422169 -1.115207
+vertex 1.000000 1.000000 1.000000
+vertex 1.000000 -1.000000 1.000000
+endloop
+endfacet
+facet normal 0.000000 -1.000000 0.000000
+outer loop
+vertex 1.000000 -1.000000 1.000000
+vertex -1.000000 -1.000000 1.000000
+vertex -1.000000 -1.000000 -1.000000
+endloop
+endfacet
+facet normal -0.165464 -0.972236 0.165464
+outer loop
+vertex 1.000000 -1.000000 1.000000
+vertex -1.000000 -1.000000 -1.000000
+vertex 1.365382 -1.422169 -1.115207
+endloop
+endfacet
+facet normal -0.999712 0.016966 0.016966
+outer loop
+vertex -1.000000 -1.000000 1.000000
+vertex -0.956861 1.252475 1.289387
+vertex -1.000000 1.000000 -1.000000
+endloop
+endfacet
+facet normal -1.000000 0.000000 0.000000
+outer loop
+vertex -1.000000 -1.000000 1.000000
+vertex -1.000000 1.000000 -1.000000
+vertex -1.000000 -1.000000 -1.000000
+endloop
+endfacet
+facet normal 0.146292 0.000000 0.989241
+outer loop
+vertex 1.000000 -1.000000 1.000000
+vertex 1.000000 1.000000 1.000000
+vertex -0.956861 1.252475 1.289387
+endloop
+endfacet
+facet normal 0.000000 -0.127428 0.991848
+outer loop
+vertex 1.000000 -1.000000 1.000000
+vertex -0.956861 1.252475 1.289387
+vertex -1.000000 -1.000000 1.000000
+endloop
+endfacet
+endsolid Exported from Blender-3.2.0
